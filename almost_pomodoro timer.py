@@ -1,4 +1,4 @@
-# pomodoro timer
+# almost pomodoro timer
 
 
 """ DONE:
