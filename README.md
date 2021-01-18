@@ -1,9 +1,9 @@
 # Pygame Projects
-a collection of games and apps created with python and pygame library.
+A collection of games and apps created with python and pygame library.
 
 
 ## [Snake](https://github.com/pekkalacd/pygame-projects/blob/master/pygame%20snake.py)
-a rendition of the traditional snake game.
+A rendition of the traditional snake game.
 
 ## [Almost Pomodoro Timer](https://github.com/pekkalacd/pygame-projects/blob/master/almost_pomodoro%20timer.py)
 A study timer application similar to pomodoro timer.
@@ -16,6 +16,6 @@ A study timer application similar to pomodoro timer.
   - also serves as a regular timer
 
 ## [Tic Tac Toe](https://github.com/pekkalacd/pygame-projects/blob/master/tic%20tac%20toe%20gui.py)
-a remake of the traditional tic-tac-toe game. 
+A remake of the traditional tic-tac-toe game.
 
 
